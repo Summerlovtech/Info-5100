@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ1/HW2LeetCodeQ1.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ1/HW2LeetCodeQ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ10/HW2LeetCodeQ10.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ10/HW2LeetCodeQ10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ2/HW2LeetCodeQ2.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ2/HW2LeetCodeQ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ3/HW2LeetCodeQ3.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ3/HW2LeetCodeQ3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ4/HW2LeetCodeQ4.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ4/HW2LeetCodeQ4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ5/HW2LeetCodeQ5.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ5/HW2LeetCodeQ5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ6/HW2LeetCodeQ6.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ6/HW2LeetCodeQ6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ7/HW2LeetCodeQ7.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ7/HW2LeetCodeQ7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ8/HW2LeetCodeQ8.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ8/HW2LeetCodeQ8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2LeetCodeQ9/HW2LeetCodeQ9.iml" filepath="$PROJECT_DIR$/HW2/HW2LeetCodeQ9/HW2LeetCodeQ9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2Q1/HW2Q1.iml" filepath="$PROJECT_DIR$/HW2/HW2Q1/HW2Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2Q2/HW2Q2.iml" filepath="$PROJECT_DIR$/HW2/HW2Q2/HW2Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3.iml" filepath="$PROJECT_DIR$/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3Q2/HW3Q2.iml" filepath="$PROJECT_DIR$/HW3/HW3Q2/HW3Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Info-5100.iml" filepath="$PROJECT_DIR$/Info-5100.iml" />
+    </modules>
+  </component>
+</project>
